@@ -1,6 +1,6 @@
 // Export Layer Coordinates - Adobe Photoshop Script
 // Description: Export x and y coordinates to comma seperated .txt file
-// Requirements: Adobe Photoshop CS5 (have not tested on CS4)
+// Requirements: Adobe Photoshop CS2018
 // Version: 1.0 - 8/15/2017
 // Author: Kevin McGuinness based on some great photoshop methods by Chris DeLuca
 
